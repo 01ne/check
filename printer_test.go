@@ -1,7 +1,7 @@
 package check_test
 
 import (
-    .   "gopkg.in/check.v1"
+    .   "github.com/01ne/check"
 )
 
 var _ = Suite(&PrinterS{})

@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"runtime"
 
-	"gopkg.in/check.v1"
+	"github.com/01ne/check"
 )
 
 type CheckersS struct{}

@@ -1,5 +1,5 @@
-module gopkg.in/check.v1
+module github.com/01ne/check
 
-go 1.11
+go 1.18
 
-require github.com/kr/pretty v0.2.1
+require github.com/01ne/pretty v1.0.2
